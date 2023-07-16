@@ -70,4 +70,5 @@ group :test do
   gem 'shoulda-matchers'
 end
 
+gem "validate_url"
 gem 'slack-ruby-client'
