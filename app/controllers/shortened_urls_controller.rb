@@ -1,0 +1,2 @@
+class ShortenedUrlsController < ApplicationController
+end
