@@ -72,3 +72,5 @@ end
 
 gem "validate_url"
 gem 'slack-ruby-client'
+
+gem "dockerfile-rails", ">= 1.5", :group => :development

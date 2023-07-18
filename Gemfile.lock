@@ -83,6 +83,8 @@ GEM
       irb (>= 1.5.0)
       reline (>= 0.3.1)
     diff-lcs (1.5.0)
+    dockerfile-rails (1.5.1)
+      rails
     erubi (1.12.0)
     faraday (2.7.10)
       faraday-net_http (>= 2.0, < 3.1)
@@ -237,6 +239,7 @@ DEPENDENCIES
   bootsnap
   database_cleaner
   debug
+  dockerfile-rails (>= 1.5)
   importmap-rails
   jbuilder
   pg (~> 1.1)
